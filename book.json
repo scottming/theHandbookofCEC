@@ -1,0 +1,14 @@
+{"title": "认知英语手册 第二期",
+    "version": "160925, 02",
+    "description": "the Handbook of Cognitive English Cource",
+    "author": "Ling He <275966365@qq.com>",
+
+    "plugins": [
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "disqus":{
+        "shortName": "scottming"
+        } 
+    }   
+}
