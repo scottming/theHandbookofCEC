@@ -1,7 +1,7 @@
 {"title": "认知英语手册 第二期",
-    "version": "160926,2020",
+    "version": "160925, 02",
     "description": "the Handbook of Cognitive English Cource",
-    "author": "Ling He <omooc-support@googlegroups.com>",
+    "author": "Ling He <275966365@qq.com>",
 
     "plugins": [
         "disqus"
@@ -9,6 +9,6 @@
     "pluginsConfig": {
         "disqus":{
         "shortName": "scottming"
-        } 
-    }   
+        }
+    }
 }
